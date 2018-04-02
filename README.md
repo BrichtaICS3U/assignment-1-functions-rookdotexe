@@ -20,11 +20,3 @@ Use good coding technique throughout (program header, meaningful variable names,
 
 
 TIP:  If you get part 1 working, commit and push the changes to GitHub before continuing to work on part 2. That way you won't mess up your working version when you try to add new features. Repeat this process for the remaining parts.
-
-
-FEEDBACK
-Please add documentation to functions like CtoF and FtoC. Also, functions should generally return a number which can be manipulated in a string output. Finally, comparisons with strings (see line 25) can be written
-if choice == 'F' or choice == 'f':
-Python knows that 'f' is a string.
-GRADE
-9/10
